@@ -10,7 +10,12 @@
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I 💖 exploring the world & new technologies.
 
-## Connect with me:
+
+[![GitHub Davekibh](https://img.shields.io/github/followers/Davekibh?label=follow&style=social)]
+(https://github.com/Davekibh)
+
+
+### Connect with me:
 
 <a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
