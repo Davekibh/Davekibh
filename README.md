@@ -1,4 +1,4 @@
-## Hi there, I'm Dave Bhandari👋
+## Hi, I'm Dave Bhandari👋
 
 
 - 🔭 I’m currently working on Frontend Development.
