@@ -59,7 +59,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&the
 </a>
 
 <a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=darkblue" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=light" />
 </a>
 
 <div align="center">
