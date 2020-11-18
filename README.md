@@ -53,8 +53,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&the
 </a>
 
 <br/>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Davekibh)  
+ 
 
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=light" />
