@@ -52,6 +52,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&the
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=light&line_height=27" alt="Dave's github stats"/>
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Davekibh)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/Davekibh)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Davekibh)  
+
 <br/>
 
 <a href="https://github.com/Davekibh/Background-generator">
