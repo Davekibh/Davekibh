@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend and Android Development
 - 📫 How to reach me: Instagram - [@Dave_bhandari](https://Instagram.com/Dave_bhandari), Telegram - [@Dave_bhandari](https://t.me/Dave_bhandari)
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I 💖 exploring the world & new technologies.
+- ⚡ Fun fact: I 💖 to code 24x7.
 
 ### Connect with me:
 
@@ -45,11 +45,11 @@
 
 <a href="https://github.com/Davekibh">
   <img align="center" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=light&hide_langs_below=1" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=dark&hide_langs_below=1" />
   </a>
   
   <a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=light&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=dark&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
