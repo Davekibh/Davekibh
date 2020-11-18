@@ -1,5 +1,7 @@
 ## Hi, I'm Dave Bhandari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on Frontend Development.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Developers and Android Developers.
@@ -8,8 +10,6 @@
 - 📫 How to reach me: Instagram - [@Dave_bhandari](https://Instagram.com/Dave_bhandari), Telegram - [@Dave_bhandari](https://t.me/Dave_bhandari)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Connect with me:
 
