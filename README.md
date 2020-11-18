@@ -1,4 +1,4 @@
-## Hi, I'm Dave Bhandari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Dave Bhandari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
 - 🔭 I’m currently working on Frontend Development.
 - 🌱 I’m currently learning Backend Development.
@@ -8,6 +8,8 @@
 - 📫 How to reach me: Instagram - [@Dave_bhandari](https://Instagram.com/Dave_bhandari), Telegram - [@Dave_bhandari](https://t.me/Dave_bhandari)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Connect with me:
 
@@ -45,11 +47,11 @@
 
 <a href="https://github.com/Davekibh">
   <img align="center" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=dark&hide_langs_below=1" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight&hide_langs_below=1" />
   </a>
   
   <a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=dark&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
