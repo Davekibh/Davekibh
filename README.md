@@ -44,11 +44,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 ### Hackathons:
-<img height="20" src="https://defhacks.co/images/defhacks-logos/defhacks-logo-black-green.png">[Def Hacks | Global 2.0](https://defhacks.co/hackathons/global_2.0)<br/>
-<img height="20" src="https://octahacks.tech/images/octa/octahacks.png">[Octa Hacks 3.0](https://octahacks.tech/)<br/>
-<img height="20" src="https://hacksrm.tech/assets/images/logo.png">[HackSRM 3.0](https://hacksrm.tech/)<br/>
+[Def Hacks | Global 2.0](https://defhacks.co/hackathons/global_2.0)<br/>
+[Octa Hacks 3.0](https://octahacks.tech/)<br/>
+[HackSRM 3.0](https://hacksrm.tech/)<br/>
 [UniHack](https://unihack.eu/)<br/>
-<img height="20" src="https://thetahacks.tech/img/logo/logo_clear.png">[ThetaHacks 1](https://thetahacks.tech/)<br/>
+[ThetaHacks 1](https://thetahacks.tech/)<br/>
 
 <a href="https://github.com/Davekibh">
   <img align="center" 
