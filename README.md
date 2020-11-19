@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend and Android Development
 - 📫 How to reach me: Instagram - [@Dave_bhandari](https://Instagram.com/Dave_bhandari), Telegram - [@Dave_bhandari](https://t.me/Dave_bhandari)
 - 😄 Pronouns: He/His/Him  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- ⚡ Fun fact: I 💖 to code 24x7.
+- ⚡ Fun fact: I 💖 to code 24x7.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Connect with me:
 
@@ -50,6 +50,7 @@
 [UniHack](https://unihack.eu/)<br/>
 [ThetaHacks 1](https://thetahacks.tech/)<br/>
 
+### Github Activity📊:
 <a href="https://github.com/Davekibh">
   <img align="center" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight&hide_langs_below=1" />
@@ -61,7 +62,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&the
 
 <br/>
  
-
+### My Projects🌟:
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
 </a>
