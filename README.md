@@ -44,11 +44,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 ### Hackathons💻:
-Def Hacks | Global 2.0&nbsp[Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0 &nbsp&nbsp[Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0&nbsp&nbsp[Check out!](https://hacksrm.tech/)<br/>
-UniHack&nbsp&nbsp&nbsp[Check out!](https://unihack.eu/)<br/>
-ThetaHacks 1&nbsp&nbsp[Check out!](https://thetahacks.tech/)<br/>
+Def Hacks | Global 2.0    [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
+Octa Hacks 3.0            [Check out!](https://octahacks.tech/)<br/>
+HackSRM 3.0               [Check out!](https://hacksrm.tech/)<br/>
+UniHack                   [Check out!](https://unihack.eu/)<br/>
+ThetaHacks 1              [Check out!](https://thetahacks.tech/)<br/>
 
 ### Github Activity📊:
 <a href="https://github.com/Davekibh">
