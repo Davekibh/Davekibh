@@ -15,10 +15,6 @@
   <img align="left" alt="Dave's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <a href="https://github.com/Davekibh/">
   <img align="left" alt="Dave's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -29,6 +25,10 @@
 
 <a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
   <img align="left" alt="Dave's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br/>
