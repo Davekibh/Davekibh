@@ -45,7 +45,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/662/600/png-transparent-sublime-text-computer-icons-others-miscellaneous-angle-text.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 
 ### Hackathons💻:
 Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
