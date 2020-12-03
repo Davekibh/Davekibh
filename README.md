@@ -80,6 +80,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&the
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
+
 <div align="center">
   
 ### Show some ❤️ by starring some of my [repositories](https://github.com/Davekibh?tab=repositories)!
