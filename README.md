@@ -54,8 +54,10 @@ Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.
 Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
 HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
 UniHack                 -  [Check out!](https://unihack.eu/)<br/>
+Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
 ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 NextStep Hacks             <br/>
+
 
 ### Github Activity📊:
 <a href="https://github.com/Davekibh">
