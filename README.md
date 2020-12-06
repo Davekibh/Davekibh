@@ -61,7 +61,7 @@ HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
 UniHack                 -  [Check out!](https://unihack.eu/)<br/>
 Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
 ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
-NextStep Hacks             <br/>
+NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
 
 
 ### Github Activity📊:
