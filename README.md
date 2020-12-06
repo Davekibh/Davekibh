@@ -27,6 +27,10 @@
   <img align="left" alt="Dave's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<a href="https://twitter.com/dave_bhandari">
+  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
 <a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
