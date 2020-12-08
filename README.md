@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend and Android Development
 - 📫 How to reach me: Instagram - [Dave_bhandari](https://Instagram.com/Dave_bhandari), Telegram - [Dave_bhandari](https://t.me/Dave_bhandari)
 - 😄 Pronouns: He/His/Him  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-- ⚡ Fun fact: I 💖 to code 24x7.
+- ⚡ Fun fact: I 💖 to code 24x7
 
 ### Connect with me🤝:
 
