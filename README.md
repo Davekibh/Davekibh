@@ -15,10 +15,6 @@
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/Davekibh/">
-  <img align="left" alt="Dave's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <a href="https://instagram.com/Dave_bhandari/">
   <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
