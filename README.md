@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 I’m looking for help with Open source Contribution
-- 💬 Ask me about Frontend and Android Development
+- 💬 Ask me about Frontend and Android Development.
 - 📫 How to reach me: Instagram - [Dave_bhandari](https://Instagram.com/Dave_bhandari), Telegram - [Dave_bhandari](https://t.me/Dave_bhandari)
 - 😄 Pronouns: He/His/Him  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 - ⚡ Fun fact: I 💖 to code 24x7.
