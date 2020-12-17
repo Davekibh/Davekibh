@@ -2,6 +2,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 
+### About me🧑:
+I am Computer Engineering student.I am a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
+I have done Internship as a FullStack Developer as well as White Box Tester.<br/>
+I have an interest in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
@@ -135,6 +140,7 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 
 <div align="center">
   
+
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
 
 </div>
