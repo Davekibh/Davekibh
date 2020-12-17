@@ -1,11 +1,11 @@
 ## Hi, I'm Dave Bhandari
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
-
 ### About me🧑:
 I am Computer Engineering student.I am a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as White Box Tester.<br/>
 I have an interest in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
