@@ -106,6 +106,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&the
 
 <div align="center">
   
-### Show some ❤️ by starring some of my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
