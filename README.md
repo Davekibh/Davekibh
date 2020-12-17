@@ -3,7 +3,7 @@
 ### About me🧑:
 I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as White Box Tester.<br/>
-I have an interest in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="280" />
 
