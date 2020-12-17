@@ -1,5 +1,10 @@
 ## Hi, I'm Dave Bhandari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
+### About me🧑:
+I am Computer Engineering student.I am a Certified Java Developer by CCA(Cambridge Certification Authority).
+I have done Internship as a FullStack Developer as well as White Box Tester.
+I have an interest in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
