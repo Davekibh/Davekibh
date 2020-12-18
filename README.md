@@ -5,7 +5,7 @@ I am Computer Engineering student and a Certified Java Developer by CCA(Cambridg
 I have done Internship as a FullStack Developer as well as White Box Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://gofixedcomputers.com.ng/uploads/about_01.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://gofixedcomputers.com.ng/uploads/about_01.jpg" width="415" height="280" />
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
