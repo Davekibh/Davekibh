@@ -1,5 +1,3 @@
-## Hi, I'm Dave Bhandari
-
 ![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)
 
 ### About me🧑:
