@@ -19,7 +19,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 <br/>
 
-
+---
 
 <details>
 <summary>
@@ -42,7 +42,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
 
-
+---
 
 <details>
 <summary> Hackathons 💻: </summary>
@@ -59,7 +59,7 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 
 </details>
 
-
+---
 
 <details>
 <summary> Connect with me🤝: </summary>  
@@ -94,7 +94,7 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 
 </details>
 
-
+---
 
 ### Github Activity📊:
 
