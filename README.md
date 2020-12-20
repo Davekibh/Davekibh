@@ -99,12 +99,13 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 ### Github Activity📊:
 
 <a href="https://github.com/Davekibh">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight&hide_langs_below=1" />
+  </a>
+
+<a href="https://github.com/Davekibh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
-<a href="https://github.com/Davekibh">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight&hide_langs_below=1" />
-  </a>
 
 <br/>
 
