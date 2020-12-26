@@ -98,7 +98,7 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 
 ---
 
-### Github Activity📊:
+### Github Activity ✔:
 
 <a href="https://github.com/Davekibh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight&hide_langs_below=1" />
@@ -136,6 +136,10 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
+
+### My WakaTime Stats 📊:
+
+<figure><embed src="https://wakatime.com/share/@Davekibh/cf1d66c8-f8a1-4ecc-898c-6ff419fe0797.svg"></embed></figure>
 
 <div align="center">
   
