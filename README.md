@@ -137,6 +137,8 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
 
+### My WakaTime Stats 📊:
+
 <!--START_SECTION:waka-->
 ```text
 HTML   1 hr 50 mins    █████████████████▒░░░░░░░   68.99 % 
