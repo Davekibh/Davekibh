@@ -138,6 +138,12 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 </a>
 
 <!--START_SECTION:waka-->
+```text
+HTML   1 hr 50 mins    █████████████████▒░░░░░░░   68.99 % 
+XML    23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Java   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Text   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+```
 <!--END_SECTION:waka-->
 
 <div align="center">
