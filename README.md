@@ -137,6 +137,9 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   
 
