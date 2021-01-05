@@ -142,13 +142,12 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2020 - 03 January, 2021
+Week: 28 December, 2020 - 04 January, 2021
 
-HTML         6 hrs 54 mins   ███████████████████▓░░░░░   78.13 % 
-JavaScript   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Text         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-CSS          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-PHP          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+HTML         6 hrs 54 mins   ████████████████████▓░░░░   82.66 % 
+JavaScript   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Text         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
