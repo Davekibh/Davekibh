@@ -142,13 +142,13 @@ ThetaHacks 1            -  [Check out!](https://thetahacks.tech/)<br/>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
-HTML         3 hrs 52 mins   ████████████████▓░░░░░░░░   66.78 % 
-JavaScript   1 hr 20 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.07 % 
-CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+HTML         2 hrs 52 mins   ███████████████░░░░░░░░░░   59.97 % 
+JavaScript   1 hr 20 mins    ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
 
