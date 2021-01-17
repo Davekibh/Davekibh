@@ -151,7 +151,7 @@ CSS                   3 mins          █░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![My Wall](https://idemoed.vercel.app/api/wall?username=<dave_bh>)
+<img src="https://idemoed.vercel.app/api/wall?username=<dave_bh>"/>
 
 
 <div align="center">
