@@ -144,7 +144,7 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 ```text
 Week: 11 January, 2021 - 18 January, 2021
 
-JavaScript            1 hr 38 mins    ██████████▓░░░░░░░░░░░░░░   42.11 % 
+JavaScript            10 hr 38 mins    ██████████▓░░░░░░░░░░░░░░   42.11 % 
 HTML                  1 hr 31 mins    █████████▓░░░░░░░░░░░░░░░   39.15 % 
 CSS                   34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Text                  9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
