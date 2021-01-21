@@ -54,7 +54,7 @@ Languages and Tools🛠:
 Def Hacks | Global 2.0 
 Octa Hacks 3.0          
 HackSRM 3.0             
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
+UniHack                 
 NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
 Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
 ThetaHacks I            -  [Check out!](https://thetahacks.tech/)<br/>
