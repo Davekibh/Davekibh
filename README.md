@@ -51,9 +51,9 @@ Languages and Tools🛠:
   
 <br/>
 
-SIH 2020
-Def Hacks | Global 2.0 
-Octa Hacks 3.0          
+SIH 2020                   <br>
+Def Hacks | Global 2.0     <br>
+Octa Hacks 3.0             <br>
 HackSRM 3.0             
 UniHack                 
 NextStep Hacks         
