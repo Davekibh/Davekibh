@@ -56,7 +56,7 @@ Octa Hacks 3.0
 HackSRM 3.0             
 UniHack                 
 NextStep Hacks         
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
+Hack With CW            
 ThetaHacks I            -  [Check out!](https://thetahacks.tech/)<br/>
 HoyaHacks               -  [Check out!](http://hoyahacks.georgetown.domains/)</br>  
 
