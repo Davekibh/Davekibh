@@ -143,12 +143,12 @@ HoyaHacks               -  [Check out!](http://hoyahacks.georgetown.domains/)</b
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2021 - 19 January, 2021
+Week: 13 January, 2021 - 20 January, 2021
 
-JavaScript            2 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   46.84 % 
-HTML                  1 hr 51 mins    ████████░░░░░░░░░░░░░░░░░   32.35 % 
-CSS                   38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Java                  32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+JavaScript            4 hrs 32 mins   ███████████████░░░░░░░░░░   59.73 % 
+HTML                  1 hr 51 mins    ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+CSS                   38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Java                  32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 <!--END_SECTION:waka-->
 
