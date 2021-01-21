@@ -51,14 +51,15 @@ Languages and Tools🛠:
   
 <br/>
 
+SIH 2020
 Def Hacks | Global 2.0 
 Octa Hacks 3.0          
 HackSRM 3.0             
 UniHack                 
 NextStep Hacks         
 Hack With CW            
-ThetaHacks I            -  [Check out!](https://thetahacks.tech/)<br/>
-HoyaHacks               -  [Check out!](http://hoyahacks.georgetown.domains/)</br>  
+ThetaHacks I            
+HoyaHacks               
 
 </details>
 
