@@ -51,8 +51,8 @@ Languages and Tools🛠:
   
 <br/>
 
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
+Def Hacks | Global 2.0 
+Octa Hacks 3.0          
 HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
 UniHack                 -  [Check out!](https://unihack.eu/)<br/>
 NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
