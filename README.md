@@ -144,13 +144,13 @@ HoyaHacks
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-JavaScript   5 hrs 57 mins   ████████████████░░░░░░░░░   63.74 % 
-HTML         1 hr 53 mins    █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Java         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-CSS          38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JavaScript   5 hrs 43 mins   █████████████████░░░░░░░░   67.53 % 
+HTML         1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Java         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+CSS          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
 
