@@ -157,7 +157,7 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 ### Todoist Stats :
 <!-- TODO-IST:START -->
 🏆  350 Karma Points           
-🌸  Completed 6 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 6 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
