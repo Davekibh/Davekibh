@@ -154,6 +154,10 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### Todoist Stats :
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <div align="center">
   
 
