@@ -155,7 +155,7 @@ Markdown     6 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Todoist Stats :
 <!-- TODO-IST:START -->
-🏆  543 Karma Points           
+🏆  629 Karma Points           
 🌸  Completed 9 tasks today           
 🗓  Completed 16 tasks this week           
 ✅  Completed 22 tasks so far           
