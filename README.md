@@ -146,9 +146,9 @@ HoyaHacks
 ```text
 Week: 21 January, 2021 - 28 January, 2021
 
-JavaScript   5 hrs 49 mins   ███████████████████▒░░░░░   76.97 % 
-HTML         1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.14 % 
-Java         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JavaScript   5 hrs 42 mins   ██████████████████▓░░░░░░   74.89 % 
+HTML         1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.02 % 
+Java         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 <!--END_SECTION:waka-->
 
