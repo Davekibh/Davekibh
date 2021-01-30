@@ -154,10 +154,10 @@ Java         14 mins         ▓░░░░░░░░░░░░░░░░
 
 ### Todoist Stats :
 <!-- TODO-IST:START -->
-🏆  758 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 24 tasks this week           
-✅  Completed 30 tasks so far           
+🏆  801 Karma Points           
+🌸  Completed 23 tasks today           
+🗓  Completed 47 tasks this week           
+✅  Completed 53 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
