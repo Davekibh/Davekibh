@@ -75,7 +75,7 @@ HoyaHacks
 </a>
 
 <a href="https://github.com/Davekibh">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Dave's Github" width="22px" src="https://cdn.discordapp.com/attachments/794846910234099712/805308303021965322/unknown.png" />
 </a>
 
 <a href="https://instagram.com/Dave_bhandari/">
