@@ -94,6 +94,14 @@ HoyaHacks
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
+<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+  <img align="left" alt="Dave's Devpost" width="22px" src="https://pbs.twimg.com/profile_images/625987202909085696/KKYbLP8y.jpg" />
+</a>
+
+<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+  <img align="left" alt="Dave's Devfolio" width="22px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A.png" />
+</a>
+
 <br/>
 
 </details>
