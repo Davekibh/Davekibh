@@ -152,7 +152,7 @@ HoyaHacks
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
 JavaScript   8 hrs 35 mins   ██████████████████▓░░░░░░   74.75 % 
 HTML         2 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.50 % 
