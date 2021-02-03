@@ -60,7 +60,6 @@ NextStep Hacks
 Hack With CW            
 ThetaHacks I            
 
-
 </details>
 
 ---
