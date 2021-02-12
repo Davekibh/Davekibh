@@ -151,7 +151,7 @@ ThetaHacks I
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
 JavaScript   1 hr 14 mins    ███████████▒░░░░░░░░░░░░░   45.78 % 
 HTML         57 mins         █████████░░░░░░░░░░░░░░░░   35.36 % 
