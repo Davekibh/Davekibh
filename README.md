@@ -33,7 +33,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
@@ -74,7 +74,7 @@ ThetaHacks I
 </a>
 
 <a href="https://github.com/Davekibh">
-  <img align="left" alt="Dave's Github" width="22px" src="https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png" />
+  <img align="left" alt="Dave's Github" width="22px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 </a>
 
 <a href="https://instagram.com/Dave_bhandari/">
