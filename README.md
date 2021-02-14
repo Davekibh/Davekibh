@@ -145,7 +145,7 @@ ThetaHacks I
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-
+</a>
 
 ### My WakaTime Stats 📊:
 
