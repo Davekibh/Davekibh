@@ -151,7 +151,7 @@ ThetaHacks I
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
+Week: 09 February, 2021 - 16 February, 2021
 
 HTML   23 mins         ████████████████░░░░░░░░░   64.37 % 
 CSS    12 mins         █████████░░░░░░░░░░░░░░░░   35.63 % 
