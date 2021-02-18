@@ -153,9 +153,8 @@ ThetaHacks I
 ```text
 Week: 10 February, 2021 - 17 February, 2021
 
-HTML         23 mins         ██████████████░░░░░░░░░░░   55.83 % 
-CSS          12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.90 % 
-JavaScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+HTML         19 mins         ███████████████████▒░░░░░   77.76 % 
+JavaScript   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 % 
 ```
 <!--END_SECTION:waka-->
 
