@@ -59,7 +59,7 @@ UniHack
 NextStep Hacks         
 Hack With CW            
 ThetaHacks I            
-HoyaHacks
+HoyaHacks 2021
 </details>
 
 ---
