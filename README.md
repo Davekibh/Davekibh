@@ -153,8 +153,8 @@ HoyaHacks 2021
 ```text
 Week: 13 February, 2021 - 20 February, 2021
 
-HTML         19 mins         ███████████████████▒░░░░░   77.76 % 
-JavaScript   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.24 % 
+JavaScript   5 mins          █████████████████████░░░░   84.57 % 
+TypeScript   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 ```
 <!--END_SECTION:waka-->
 
