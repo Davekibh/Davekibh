@@ -151,7 +151,7 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
+Week: 20 February, 2021 - 27 February, 2021
 
 TypeScript   1 min           █████████████████████████   100.00 % 
 ```
