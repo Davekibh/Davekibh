@@ -153,7 +153,7 @@ HoyaHacks 2021
 ```text
 Week: 20 February, 2021 - 27 February, 2021
 
-TypeScript   1 min           █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
