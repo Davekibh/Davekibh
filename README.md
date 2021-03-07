@@ -151,9 +151,7 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 February, 2021 - 06 March, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
