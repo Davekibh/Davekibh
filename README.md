@@ -151,7 +151,10 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 March, 2021 - 06 April, 2021
+
+Java   10 mins         █████████████████▒░░░░░░░   68.69 % 
+XML    4 mins          ███████▓░░░░░░░░░░░░░░░░░   31.31 % 
 ```
 <!--END_SECTION:waka-->
 
