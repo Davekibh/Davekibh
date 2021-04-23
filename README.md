@@ -151,7 +151,12 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 April, 2021 - 22 April, 2021
+
+XML          1 hr 52 mins    █████████████████▒░░░░░░░   68.67 % 
+PHP          24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Python       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Java         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 <!--END_SECTION:waka-->
 
