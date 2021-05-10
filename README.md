@@ -152,7 +152,7 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 May, 2021 - 08 May, 2021
+Week: 02 May, 2021 - 09 May, 2021
 
 Python   3 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   43.21 % 
 XML      2 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   31.90 % 
