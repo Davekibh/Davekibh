@@ -152,7 +152,7 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 May, 2021 - 16 May, 2021
+Week: 10 May, 2021 - 17 May, 2021
 
 HTML   9 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.56 % 
 CSS    3 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
