@@ -45,6 +45,7 @@ Languages and Tools🛠:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png"></code>
 <code><img height="20" src="https://haxnode.net/wp-content/uploads/2019/09/Adobe-XD-CC-logo.png"></code>
 <code><img height="20" src="https://cudichis.ro/wp-content/uploads/2021/03/1051px-Adobe_Illustrator_CC_icon.svg.png"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code>
 </details>
 
 ---
