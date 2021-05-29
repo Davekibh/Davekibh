@@ -157,7 +157,7 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 May, 2021 - 27 May, 2021
+Week: 21 May, 2021 - 28 May, 2021
 
 Python   13 hrs 47 mins  ███████████████▒░░░░░░░░░   61.84 % 
 PHP      2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
