@@ -157,7 +157,7 @@ HoyaHacks 2021
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 June, 2021 - 17 June, 2021
+Week: 11 June, 2021 - 18 June, 2021
 
 HTML   6 hrs 8 mins    ███████████████░░░░░░░░░░   60.53 % 
 PHP    3 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.60 % 
