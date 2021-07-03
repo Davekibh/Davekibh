@@ -65,6 +65,7 @@ NextStep Hacks
 Hack With CW            
 ThetaHacks I            
 HoyaHacks 2021
+HTM 2.0
 </details>
 
 ---
