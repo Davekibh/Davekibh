@@ -158,7 +158,7 @@ HTM 2.0
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 June, 2021 - 02 July, 2021
+Week: 27 June, 2021 - 03 July, 2021
 
 Python       29 mins         ████████████████░░░░░░░░░   63.52 % 
 Text         11 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
