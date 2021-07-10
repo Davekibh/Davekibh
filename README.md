@@ -158,12 +158,7 @@ HTM 2.0
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
-
-Python       29 mins         ████████████████░░░░░░░░░   63.52 % 
-Text         11 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
-Markdown     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
