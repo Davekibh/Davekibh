@@ -158,9 +158,7 @@ HTM 2.0
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2021 - 20 July, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
