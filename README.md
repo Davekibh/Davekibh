@@ -158,7 +158,11 @@ HTM 2.0
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 July, 2021 - 24 July, 2021
+
+Java         10 mins         ███████████▓░░░░░░░░░░░░░   46.34 % 
+Properties   8 mins          ██████████░░░░░░░░░░░░░░░   40.31 % 
+XML          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 <!--END_SECTION:waka-->
 
