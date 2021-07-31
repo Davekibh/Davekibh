@@ -158,7 +158,7 @@ HTM 2.0
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
+Week: 24 July, 2021 - 30 July, 2021
 
 Java         10 mins         ███████████▓░░░░░░░░░░░░░   46.34 % 
 Properties   8 mins          ██████████░░░░░░░░░░░░░░░   40.31 % 
