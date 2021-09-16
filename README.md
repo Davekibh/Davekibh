@@ -165,7 +165,7 @@ HTM 2.0
 ```text
 Week: 09 September, 2021 - 15 September, 2021
 
-C++   1 hr 8 mins     █████████████████████████   100.00 % 
+C++   1 hr 12 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
