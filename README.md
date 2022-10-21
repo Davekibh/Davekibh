@@ -151,7 +151,7 @@ HTM 2.0
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
+<a href="https://github.com/Davekibh/Quiz-Game-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
 </a>
 
