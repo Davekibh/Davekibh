@@ -152,7 +152,7 @@ HTM 2.0
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Game-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Game-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
